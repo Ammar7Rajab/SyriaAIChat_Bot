@@ -1,7 +1,5 @@
-import telebot  # مكتبة التعامل مع تيليجرام
-
-7895482872:AAGpz3mO84SPPwZWS_38QCmXve1r2ikhm1w
-TELEGRAM_BOT_TOKEN = 7895482872:AAGpz3mO84SPPwZWS_38QCmXve1r2ikhm1w
+import telebot  #  مكتبة التعامل مع التيليجرام
+TELEGRAM_BOT_TOKEN =
 
 bot = telebot.TeleBot(TELEGRAM_BOT_TOKEN)
 
